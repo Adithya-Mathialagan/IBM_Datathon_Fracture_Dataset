@@ -11,3 +11,6 @@ These are steps we followed to successfully build the **Bone Break Classifier** 
 5. Prediction by the Model: We used a sample test data to test our model and verify its classification. 
 
 The model was successfully able to classify most of the fracture images correctly.
+
+## This Machine Learning model was built during IBM ZDatathon and Won the Special Call out Prize.
+## This project was ranked 4th among 100+ teams.
