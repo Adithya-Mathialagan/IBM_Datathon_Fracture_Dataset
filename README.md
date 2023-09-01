@@ -12,4 +12,4 @@ These are steps we followed to successfully build the **Bone Break Classifier** 
 
 The model was successfully able to classify most of the fracture images correctly.
 
-### This Machine Learning model was built during IBM ZDatathon and Won the Special Call out Prize. This project was ranked 4th among 100+ teams
+### This Machine Learning model was built during IBM ZDatathon and Won the Special Call out Prize. This project was ranked 4th among 500+ teams
